@@ -1,4 +1,6 @@
 #
+# Author:: Julien Huon
+# Copyright:: Copyright 2018, Institut National de l'Audiovisuel
 # Copyright:: Copyright 2018, Chef Software Inc.
 # License:: Apache License, Version 2.0
 #
